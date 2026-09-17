@@ -14,7 +14,7 @@
 - **テスト:** pytest（カバレッジ100%を目指す）
 
 ## 🚀 現在の業務
-小売分析向けのデータ統合プラットフォームである **ビジネスインテリジェンスハブ (BIH)** の開発に貢献しています。
+小売分析向けのデータ統合プラットフォームである **ビジネス統合ハブ (BIH)** の開発に貢献しています。
 
 ### 担当領域：
 - 📦 **在庫管理システム** - 在庫追跡のためのサーバーレスデータ処理
@@ -40,7 +40,7 @@
 - **Testing:** pytest (100% coverage focus)
 
 ## 🚀 Current Work
-Contributing to an enterprise-scale **Business Intelligence Hub (BIH)** - a data integration platform for retail analytics.
+Contributing to an enterprise-scale **Business Integration Hub (BIH)** - a data integration platform for retail analytics.
 
 ### Areas of Focus:
 - 📦 **Inventory Management Systems** - Serverless data processing for stock tracking
