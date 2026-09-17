@@ -14,7 +14,7 @@
 - **テスト:** pytest（カバレッジ100%を目指す）
 
 ## 🚀 現在の業務
-小売分析向けのデータ統合プラットフォームである**ビジネスインテリジェンスハブ（BIH）**の開発に貢献しています。
+小売分析向けのデータ統合プラットフォームである **ビジネスインテリジェンスハブ (BIH)** の開発に貢献しています。
 
 ### 担当領域：
 - 📦 **在庫管理システム** - 在庫追跡のためのサーバーレスデータ処理
@@ -55,6 +55,7 @@ Contributing to an enterprise-scale **Business Intelligence Hub (BIH)** - a data
 
 ## 📫 Connect With Me
 - GitHub: [@ibm-Martin-Ipong](https://github.com/ibm-Martin-Ipong)
+- LinkedIn: [Jose Martin Ipong](https://ph.linkedin.com/in/jose-martin-ipong-71819796)
 - Company: [IBM Philippines](https://www.ibm.com/ph-en)
 
 ---
